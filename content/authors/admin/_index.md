@@ -98,6 +98,7 @@ work:
       - Prepared reports and presentations, ensuring project alignment through regular meetings with directors and the MIT team.
       - Assisted a professor in developing and teaching urban data analytics courses and mentor undergraduate students.
 
+
   - position: Data Analyst
     company_name: Taipei Urban Intelligence Center, Taipei City Government
     company_url: 'https://tuic.gov.taipei/en'

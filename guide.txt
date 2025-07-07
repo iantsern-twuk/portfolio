@@ -1,0 +1,5 @@
+update homepage to content/authors/admin/_index.md
+update project page to content/project
+upload resume.pdf to static/uploads/resume.pdf
+
+pkill -f 'hugo server' || true && hugo server --bind 0.0.0.0 --baseURL http://localhost:1313

@@ -55,7 +55,7 @@ sections:
     content:
       title:
       username: admin
-  #- block: collection
+  
     id: papers
     content:
       title: Featured Publications
@@ -66,7 +66,7 @@ sections:
     design:
       view: article-grid
       columns: 2
-  #- block: collection
+  
     content:
       title: Recent Publications
       text: ""
